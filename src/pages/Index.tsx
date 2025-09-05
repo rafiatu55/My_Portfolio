@@ -11,7 +11,7 @@ const Index = () => {
   const schema = {
     '@context': 'https://schema.org',
     '@type': 'Person',
-    name: 'Jane Doe',
+    name: 'Rafiatu Ibrahim',
     jobTitle: 'Quality Assurance Engineer',
     description: 'QA Engineer specializing in manual & automated testing for web and API.',
     url: '/',
